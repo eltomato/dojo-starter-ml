@@ -1,6 +1,3 @@
-[submodule "OMLoader"]
-	path = OMLoader
-	url = https://github.com/eltomato/OMLoader.git
 [submodule "modules/OMLoader"]
 	path = modules/OMLoader
 	url = https://github.com/eltomato/OMLoader.git
