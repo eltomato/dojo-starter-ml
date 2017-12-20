@@ -8,5 +8,7 @@ To clone the project properly please use
 git clone --recurse-submodules https://github.com/eltomato/dojo-starter-ml.git
 ```
 because the project is using as dependencies (git submodules):
+
 [OMLoader](https://github.com/eltomato/OMLoader)
+
 [sml-testing](https://github.com/kvalle/sml-testing)
