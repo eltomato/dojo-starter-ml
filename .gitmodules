@@ -1,0 +1,9 @@
+[submodule "OMLoader"]
+	path = OMLoader
+	url = https://github.com/eltomato/OMLoader.git
+[submodule "modules/OMLoader"]
+	path = modules/OMLoader
+	url = https://github.com/eltomato/OMLoader.git
+[submodule "modules/sml-testing"]
+	path = modules/sml-testing
+	url = https://github.com/kvalle/sml-testing.git
